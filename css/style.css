@@ -83,7 +83,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/images/home.jpg') no-repeat;
+    background: url('/images/about.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -174,7 +174,7 @@ section {
 
 .home-sci {
     position: absolute;
-    bottom: 4rem;
+    bottom: 20rem;
     width: 170px;
     display: flex;
     justify-content: space-between;
